@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Inknut+Antiqua');
+h1 {
+	margin-left: 5px;
+	display: inline-block;
+	padding: 5px;
+	padding-bottom: 10px;
+	font-family: 'Inknut Antiqua', serif;
+	color: #324ba7;
+	background-color: #85AB3C;
+	border: 2px solid black;
+	border-radius: 5px;
+	border-width: 1px;
+}
+
+ol {
+	margin: 5px;
+	font-family: 'Inknut Antiqua', serif;
+	background-color: #85AB3C;
+	border: 2px solid black;
+	border-radius: 5px;
+	border-width: 1px;
+}
+
+li {
+	padding: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin: 0px;
+	color:  #324ba7;
+}
+
+body {
+	margin: 5px;
+	background-color: #5373B8;
+	border-radius: 5px;
+
+}
+
+input[type=checkbox]:checked + label {
+	text-decoration: black line-through;
+}
+
+input[type=checkbox] {
+		margin: 0px 15px 0px;
+	}
+input[type=checkbox] {
+    margin-right: 15px;
+}
+
+	}
+input[type=checkbox] {
+    margin-top: 15px;
+}
+
+	}
+input[type=checkbox] {
+    margin-bottom: 15px;
+}
+
+div.h1container {
+	text-align: left;
+}
+
+form {
+	margin-right: 4px;
+	text-align: right;
+}
+
+img  {
+	margin-right: -1px;
+	float: right;
+}
